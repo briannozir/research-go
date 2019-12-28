@@ -64,7 +64,7 @@ if(retail.name === 'Company One' ) {
 });
 
 console.log(canDrink);
-
+console.log(canDrink);
 
 //get 80's company
 
